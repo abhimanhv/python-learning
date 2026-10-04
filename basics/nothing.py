@@ -1,5 +1,5 @@
-name = "Abhiman"
-age = 23
+name = "Abhimanhv"
+age = 24
 course = "MCA"
 
 print("Name:", name)
